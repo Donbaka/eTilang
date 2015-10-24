@@ -6,13 +6,14 @@
         <param name="onload" value="true" />
     </feature>
     <allow-intent href="market:*" />
-    <name>HelloCordova</name>
+    <name>Traffic Rite!</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Aplikasi untuk mengurangi permasalahan lalu lintas perkotaan di Indonesia
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="brilliantsurya+pong@gmail.com" href="http://donbaka.com">
+        Pong Team
     </author>
+    <icon src="www/img/favicon.png" />
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
